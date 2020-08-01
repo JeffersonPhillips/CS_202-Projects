@@ -1,2 +1,2 @@
 # CS_202-Projects
-Second Programming towards CS Major. Projects were developed fully in C++.
+Second Programming class towards CS Major. Projects were developed fully in C++.
